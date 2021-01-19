@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1abc9c;
+  --primary: #323533;
   --secondary: #2c3e50;
   --success: #28a745;
   --info: #17a2b8;
@@ -6079,7 +6079,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1e221f !important;
+  background-color: #323533 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9987,7 +9987,7 @@ h3 {
   padding: 6rem 0;
 }
 .page-section .page-section-heading {
-  font-size: 2.28rem;
+  font-size: 2.25rem;
   line-height: 2rem;
 }
 @media (min-width: 992px) {
@@ -10128,11 +10128,11 @@ h3 {
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
-  font-size: 2.75rem;
-  line-height: 2.75rem;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
 }
 .masthead .masthead-subheading {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 .masthead .masthead-avatar {
   width: 15rem;
