@@ -196,6 +196,10 @@ pre {
   margin-bottom: 1rem;
   overflow: auto;
   -ms-overflow-style: scrollbar;
+  background-color: #a19f9f;
+  border: 1px solid #338222;
+  border-radius: 5px;
+  padding: 5px;
 }
 
 figure {
@@ -10160,7 +10164,7 @@ h3 {
   overflow: visible;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   transition: all 0.2s ease-in-out;
